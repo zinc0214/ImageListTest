@@ -1,7 +1,8 @@
 package ayhan.com.imagelisttest
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import ayhan.com.imagelisttest.R
 
 class MainActivity : AppCompatActivity() {
 
